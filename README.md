@@ -55,7 +55,7 @@ SNS  :
 
 ![React](
 https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=black)
 </br>
 </br>
 
