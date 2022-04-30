@@ -2,6 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 
 BLOG : 
+</br>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={taeiljung}&theme={default})](https://taeiljung.tistory.com)
 </br>
 SNS  :
