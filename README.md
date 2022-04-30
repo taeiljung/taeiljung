@@ -53,7 +53,7 @@ SNS  :
 
 ## 🙉 학습예정
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-#61DBFB?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 </br>
 </br>
@@ -65,3 +65,5 @@ SNS  :
 </br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung)
+
+## test
