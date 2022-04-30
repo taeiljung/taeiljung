@@ -25,6 +25,9 @@ SNS  :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+</br>
+</br>
+</br>
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
 
 
@@ -52,10 +55,13 @@ SNS  :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+</br>
+</br>
 
 ## 🙊 MY STATS 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=taeiljung&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeiljung&hide=TeX&layout=compact)
-
+</br>
+</br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung)
