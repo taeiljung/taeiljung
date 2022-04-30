@@ -4,7 +4,7 @@
 BLOG : 
 </br>
 </br>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&theme=default)](https://taeiljung.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=&theme=default)](https://taeiljung.tistory.com)
 </br>
 </br>
 </br>
