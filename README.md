@@ -4,7 +4,9 @@
 
 <ul>
 	<li>태일</li>
-	<li>TISTORY : (https://taeiljung.tistory.com)</li>
+	<li>
+	[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&theme={insert_theme})](https://github.com/loosie/github-readme-tistory-card)
+</li>
 </ul>
 SNS  :
 
