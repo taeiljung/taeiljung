@@ -53,7 +53,8 @@ SNS  :
 
 ## 🙉 학습예정
 
-![React](https://img.shields.io/badge/-React-#61DBFB?style=flat-square&logo=react)
+![React](
+https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 </br>
 </br>
