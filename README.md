@@ -1,4 +1,4 @@
-## 태일의 깃허브에 오신것을 환영합니다!
+## welcome to taeiljung's github
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 
 
