@@ -73,5 +73,4 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung)
 
 ## test
-
-![HTML5](https://img.shields.io/badge/-Tistory-E34F26?style=flat-square&logo=html5&logoColor=white
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=loosie&postId=497)](https://loosie.tistory.com/497)
