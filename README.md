@@ -7,6 +7,7 @@
 CONTACT : 
 </br>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=&theme=default)](https://taeiljung.tistory.com)
+</br>
 [![Instagram Badge](https://img.shields.io/badge/-eholz__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/eholz_/)](https://instagram.com/eholz_)
 
 </br>
