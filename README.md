@@ -1,4 +1,4 @@
-## 🙊 WELCOME.
+# 🙊 WELCOME.
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=taeiljung&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeiljung&hide=TeX&layout=compact)
@@ -61,7 +61,7 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung) -->
 
-## Tistory
+## 🏴 Tistory
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=taeiljung&postId=5)](https://taeiljung.tistory.com/5)
 </br>
