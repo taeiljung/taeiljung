@@ -9,7 +9,7 @@ BLOG :
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=&theme=default)](https://taeiljung.tistory.com)
 </br>
 </br>
-</br>
+</br>	
 SNS  :
 
 
@@ -73,3 +73,5 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung)
 
 ## test
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=5&theme=)](https://github.com/taeiljung/taeiljung)
