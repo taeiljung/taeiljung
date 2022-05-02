@@ -6,8 +6,10 @@
 </br>
 CONTACT : 
 </br>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=&theme=default)](https://taeiljung.tistory.com)
+<!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=&theme=default)](https://taeiljung.tistory.com) -->
+
 </br>
+
 [![Instagram Badge](https://img.shields.io/badge/-eholz__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/eholz_/)](https://instagram.com/eholz_)
 
 </br>
@@ -57,9 +59,7 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 </br>
 </br>
 
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung) -->
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung)
-
-## test
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=taeiljung&postId=5)](https://taeiljung.tistory.com/5)
+## Tistory
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=taeiljung&postId=dafault)](https://taeiljung.tistory.com)
