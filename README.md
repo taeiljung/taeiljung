@@ -74,4 +74,4 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 
 ## test
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=5&theme=dafault)](https://github.com/taeiljung/taeiljung)
+![HTML5](https://img.shields.io/badge/-Tistory-E34F26?style=flat-square&logo=html5&logoColor=white
