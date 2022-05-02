@@ -1,20 +1,12 @@
-## 🏴‍☠️ welcome to taeiljung's github
+## 🙊 WELCOME.
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=taeiljung&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeiljung&hide=TeX&layout=compact)
 </br>
-
-BLOG : 
 </br>
+CONTACT : 
 </br>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=&theme=default)](https://taeiljung.tistory.com)
-</br>
-</br>
-</br>	
-SNS  :
-
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/) -->
-
 [![Instagram Badge](https://img.shields.io/badge/-eholz__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/eholz_/)](https://instagram.com/eholz_)
 
 </br>
@@ -64,11 +56,7 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 </br>
 </br>
 
-## 🙊 MY STATS 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=taeiljung&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeiljung&hide=TeX&layout=compact)
-</br>
-</br>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung)
 
