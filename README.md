@@ -62,4 +62,4 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung) -->
 
 ## Tistory
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=taeiljung&postId=dafault)](https://taeiljung.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=taeiljung&postId=)](https://taeiljung.tistory.com/5)
