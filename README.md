@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeiljung&hide=TeX&layout=compact)
 </br>
 </br>
-CONTACT : 
+### CONTACT : 
 </br>
 <!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taeiljung&postId=&theme=default)](https://taeiljung.tistory.com) -->
 
@@ -62,4 +62,7 @@ https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColo
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung) -->
 
 ## Tistory
+
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=taeiljung&postId=5)](https://taeiljung.tistory.com/5)
+</br>
+</br>
