@@ -14,16 +14,16 @@
 </br>
 <!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com) -->
+<!-- 
+## 🙈 학습중 -->
 
-## 🙈 학습중
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 </br>
 </br>
 </br>
@@ -50,13 +50,13 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-## 🙉 학습예정
+<!-- ## 🙉 학습예정 -->
 
-![React](
+<!-- ![React](
 https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=black)
 </br>
-</br>
+</br> -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=taeiljung.taeiljung) -->
 
