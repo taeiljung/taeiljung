@@ -9,7 +9,7 @@
 
 </br>
 
-[![Instagram Badge](https://img.shields.io/badge/-eholz__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/eholz_/)](https://instagram.com/eholz_)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-eholz__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/eholz_/)](https://instagram.com/eholz_) -->
 
 </br>
 <!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
